@@ -1,0 +1,34 @@
+<! DOCTYPE html>
+<html lang ="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form page</title>
+</head>
+
+<body>
+    <form action="">
+        <input type ="text" name ="Username" placeholder="Username" disabled="disabled"><br>
+        <input type ="password" name = "Password" placeholder= "Password"><br>
+        Gender
+        <input type="radio" name = "male" value="male" checked ="checked">male
+        <input type="radio" name = "female" value = "female">famale
+        <br>
+        <input type="checkbox" name = "hobbies" value = "Game" disabled ="disabled"> Game
+        <input type="checkbox" name = "hobbies" value = "Movie">
+        <input type="checkbox" name = "hobbies" value = "Reading">
+        <input type="checkbox" name = "hobbies" value = "Swim">
+        <input type="checkbox" name = "hobbies" value = "BodyBuilding">
+
+        <br>
+        <select name = "city">
+            <option value = "Beijing">Beijing<option/>
+            <option value = "Beijing">shanghai<option/>
+            <option value = "Beijing">tianjin<option/>
+            </option>
+        </select>
+        <input type="Submit" value = "Sign up">
+        <br>
+        <textarea name="introduction"></textarea>
+    </form>
+</body>
+</html>

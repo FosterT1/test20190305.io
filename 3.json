@@ -1,0 +1,16 @@
+{
+  "Tom": {
+    "name": "Tom",
+    "gender": "male",
+    "age": 22,
+    "married": false,
+    "courses":
+    [
+      "Java SE",
+      "C",
+      "Database",
+      "DataStructure"
+    ]
+  }
+}
+

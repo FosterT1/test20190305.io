@@ -1,0 +1,7 @@
+{
+  "sites" : [
+    {"name":  "cainiao","url": "www.runoob.com"},
+    {"namw":  "google", "url": "www.google.com"},
+    {"name":  "baidu","url":  "www.baidu.com"}
+  ]
+}
